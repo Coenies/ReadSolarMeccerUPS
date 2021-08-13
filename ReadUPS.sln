@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestReadUPS", "TestReadUPS\TestReadUPS.csproj", "{BA4689AB-6E0C-4B2D-8975-7EA7C95EA31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadUPSComms", "ReadUPSComms\ReadUPSComms.csproj", "{DDA6168A-F9F0-4238-B4AD-0E81F3BA7ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4689AB-6E0C-4B2D-8975-7EA7C95EA31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4689AB-6E0C-4B2D-8975-7EA7C95EA31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4689AB-6E0C-4B2D-8975-7EA7C95EA31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4689AB-6E0C-4B2D-8975-7EA7C95EA31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA6168A-F9F0-4238-B4AD-0E81F3BA7ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA6168A-F9F0-4238-B4AD-0E81F3BA7ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA6168A-F9F0-4238-B4AD-0E81F3BA7ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA6168A-F9F0-4238-B4AD-0E81F3BA7ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFE9EDF-9DA5-4F51-99C2-970DCC99C11A}
+	EndGlobalSection
+EndGlobal
